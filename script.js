@@ -49,7 +49,7 @@ var planets = [                                          // array of elements gi
    function reverseString(str) {                                      // reversing string function 
       return str.split('').reverse().join('');                        // spliting string to array and reversing it 
 }
-      var astro = reverseString('Astro Weight Calculator');           // calling reverseString method 
+      var astro = reverseString('rotaluclaC thgieW ortsA');           // calling reverseString method 
       document.getElementById("reverse").innerHTML = astro;           // displaying string backwards in <h1> tag with "reverse" id
 
 
